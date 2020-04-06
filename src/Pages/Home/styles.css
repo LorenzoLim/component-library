@@ -1,0 +1,9 @@
+.Test {
+  margin: 40px;
+  border: 5px dotted pink;
+}
+
+.Test_content {
+  font-size: 15px;
+  text-align: center;
+}
